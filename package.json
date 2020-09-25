@@ -1,10 +1,10 @@
 {
-  "name": "Himshikhar Adventure",
+  "name": "HimshikharAdventure",
   "version": "1.0.0",
   "description": "Landing page for fictional Tour company.",
   "main": "index.js",
   "scripts": {
-    "deploy":"gh-pages -dist"
+    "deploy":"gh-pages",
     
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
     "compile:sass": "node-sass sass/main.scss css/style.comp.css",
