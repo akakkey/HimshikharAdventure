@@ -4,7 +4,7 @@
   "description": "Landing page for fictional Tour company.",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages",
+    "deploy": "gh-d pages",
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
     "compile:sass": "node-sass sass/main.scss css/style.comp.css",
     "concat:css": "concat -o css/style.concat.css css/icon-font.css css/style.comp.css",
@@ -32,5 +32,5 @@
   "bugs": {
     "url": "https://github.com/akakkey/HimshikharAdventure/issues"
   },
-  "homepage": "https://github.com/akakkey/HimshikharAdventure#readme"
+  "homepage": "https://github.com/akakkey/HimshikharAdventure"
 }
